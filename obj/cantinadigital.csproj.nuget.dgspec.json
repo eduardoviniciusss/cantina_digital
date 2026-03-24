@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\eduar\\Desktop\\cantina_digital\\cantinadigital\\cantinadigital.csproj": {}
+    "c:\\Users\\eduar\\Desktop\\cantina_digital\\cantinadigital.csproj": {}
   },
   "projects": {
-    "C:\\Users\\eduar\\Desktop\\cantina_digital\\cantinadigital\\cantinadigital.csproj": {
+    "c:\\Users\\eduar\\Desktop\\cantina_digital\\cantinadigital.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\eduar\\Desktop\\cantina_digital\\cantinadigital\\cantinadigital.csproj",
+        "projectUniqueName": "c:\\Users\\eduar\\Desktop\\cantina_digital\\cantinadigital.csproj",
         "projectName": "cantinadigital",
-        "projectPath": "C:\\Users\\eduar\\Desktop\\cantina_digital\\cantinadigital\\cantinadigital.csproj",
+        "projectPath": "c:\\Users\\eduar\\Desktop\\cantina_digital\\cantinadigital.csproj",
         "packagesPath": "C:\\Users\\eduar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\eduar\\Desktop\\cantina_digital\\cantinadigital\\obj\\",
+        "outputPath": "c:\\Users\\eduar\\Desktop\\cantina_digital\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\eduar\\AppData\\Roaming\\NuGet\\NuGet.Config"
